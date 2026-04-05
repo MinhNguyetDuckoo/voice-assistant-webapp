@@ -1,0 +1,11 @@
+Pyaudio
+speechrecognition
+playsound == 1.2.2
+requests
+gTTS
+langchain
+langchain_community
+tkinter
+threading
+ConversationMemory
+langchain_ollama
